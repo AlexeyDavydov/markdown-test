@@ -1,7 +1,7 @@
 # markdown-test
 
 - [x] checked
-- [] unchecked
+- [ ] unchecked
 
 
     <html>
